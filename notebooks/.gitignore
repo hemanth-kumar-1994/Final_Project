@@ -1,0 +1,15 @@
+# Ignore raw datasets
+data/raw/*
+
+# Keep folder structure
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
