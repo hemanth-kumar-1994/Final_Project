@@ -1,0 +1,70 @@
+TARGET VARIABLE SELECTION
+-------------------------
+
+TITLE:
+------
+Explaining and Predicting Electric Vehicle Adoption Across Countries: A Comparative Machine Learning Study
+
+RESEARCH QUESTION:
+------------------
+How accurately can machine learning models predict EV adoption across countries, and which factors contribute most to model predictions?
+
+DECISION:
+---------
+Ev Sales share is selected as the target variable.
+
+REASON:
+-------
+1. Ev sales share directly measures adoption rather than market size.
+2. It allows fair comaprsion between countries of different sizes.
+3. Passengr cars provide the highest coverage in the dataset:
+
+- 55 countries
+- 4,137 odservations
+
+4.Other vehicle categories (vans, buses, trucks, 2/3 wheelers)
+ have lower coverage and different adoption strategies.
+
+ Therefore, this study focuses on :
+
+ Parameter : EV sales share
+ Mode      : cars
+ Powertrain: EV
+
+
+
+
+
+FEATURE SELECTION
+-----------------
+Potential explanatory variables were evaluated based on:
+
+1. Country coverage
+2. Year coverage
+3. Data completeness
+4. Relevance to EV adoption
+
+SELECTED FEATURES:
+------------------
+1. EV Stock
+   - Represents cumulative EV market size.
+   - Indicates market maturity.
+
+2. EV Stock Share
+   - Represents EV penetration in the vehicle fleet.
+   - More comparable across countries.
+
+3. EV Charging Points
+   - Measures charging infrastructure availability.
+   - Important factor influencing EV adoption.
+
+EXCLUDED FEATURES:
+------------------
+1. Battery Demand
+   - Available for only 4 countries.
+
+2. Oil Displacement
+   - Available for only 4 countries.
+
+Including these variables would significantly reduce the number of usable observations.
+
