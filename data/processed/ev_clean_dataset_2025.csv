@@ -2435,7 +2435,6 @@ World,Projection-STEPS,EV sales,Trucks,BEV,2021,Vehicles,14000.0,_World
 China,Historical,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",14000.0,Other
 China,Projection-STEPS,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",14000.0,Other
 India,Projection-STEPS,EV stock,Trucks,BEV,2030,Vehicles,14000.0,Other
-India,Projection-STEPS,EV stock,Trucks,BEV,2030,Vehicles,14000.0,Other
 Denmark,Historical,EV charging points,EV,Publicly available slow,2023,charging points,14000.0,Other
 India,Historical,EV charging points,EV,Publicly available fast,2023,charging points,14000.0,Other
 United Kingdom,Historical,EV charging points,EV,Publicly available slow,2019,charging points,14000.0,Other
@@ -2763,7 +2762,6 @@ Thailand,Historical,EV sales,Cars,PHEV,2024,Vehicles,9400.0,Other
 United Kingdom,Historical,EV stock,2 and 3 wheelers,BEV,2021,Vehicles,9400.0,Other
 Rest of the world,Projection-STEPS,EV stock,Trucks,BEV,2024,Vehicles,9400.0,Other
 Rest of the world,Projection-STEPS,Electricity demand,Vans,EV,2030,GWh,9400.0,Other
-India,Projection-STEPS,EV stock,Trucks,PHEV,2030,Vehicles,9400.0,Other
 India,Projection-STEPS,EV stock,Trucks,PHEV,2030,Vehicles,9400.0,Other
 Rest of the world,Projection-STEPS,EV sales,Buses,FCEV,2030,Vehicles,9400.0,Other
 EU27,Historical,EV charging points,EV,Publicly available fast,2018,charging points,9400.0,EU27
@@ -3304,7 +3302,6 @@ Europe,Projection-STEPS,EV stock,Cars,FCEV,2023,Vehicles,5400.0,Aggregate_sales_
 China,Historical,"Oil displacement, million lge",2 and 3 wheelers,EV,2024,"Oil displacement, million lge",5400.0,Other
 China,Projection-STEPS,"Oil displacement, million lge",2 and 3 wheelers,EV,2024,"Oil displacement, million lge",5400.0,Other
 India,Projection-STEPS,EV sales,Trucks,BEV,2030,Vehicles,5400.0,Other
-India,Projection-STEPS,EV sales,Trucks,BEV,2030,Vehicles,5400.0,Other
 Rest of the world,Projection-STEPS,EV sales,Buses,PHEV,2030,Vehicles,5400.0,Other
 Switzerland,Historical,EV charging points,EV,Publicly available slow,2019,charging points,5400.0,Other
 United Kingdom,Historical,EV charging points,EV,Publicly available slow,2013,charging points,5400.0,Other
@@ -3445,7 +3442,6 @@ USA,Historical,EV stock,Vans,BEV,2021,Vehicles,4700.0,Other
 India,Projection-STEPS,EV stock,Vans,BEV,2020,Vehicles,4700.0,Other
 USA,Projection-STEPS,EV stock,Vans,BEV,2020,Vehicles,4700.0,Other
 USA,Projection-STEPS,EV stock,Vans,BEV,2021,Vehicles,4700.0,Other
-India,Projection-STEPS,EV sales,Trucks,PHEV,2030,Vehicles,4700.0,Other
 India,Projection-STEPS,EV sales,Trucks,PHEV,2030,Vehicles,4700.0,Other
 Rest of the world,Historical,EV charging points,EV,Publicly available slow,2022,charging points,4700.0,Other
 Thailand,Historical,EV charging points,EV,Publicly available slow,2023,charging points,4700.0,Other
@@ -5072,9 +5068,7 @@ USA,Historical,"Oil displacement, million lge",Cars,EV,2017,"Oil displacement, m
 World,Historical,"Oil displacement, million lge",Vans,EV,2021,"Oil displacement, million lge",1100.0,_World
 World,Projection-STEPS,"Oil displacement, million lge",Vans,EV,2021,"Oil displacement, million lge",1100.0,_World
 India,Projection-STEPS,Electricity demand,Trucks,EV,2030,GWh,1100.0,Other
-India,Projection-STEPS,Electricity demand,Trucks,EV,2030,GWh,1100.0,Other
 Rest of the world,Projection-STEPS,Electricity demand,Vans,EV,2024,GWh,1100.0,Other
-India,Projection-STEPS,EV stock,Trucks,FCEV,2030,Vehicles,1100.0,Other
 India,Projection-STEPS,EV stock,Trucks,FCEV,2030,Vehicles,1100.0,Other
 India,Projection-STEPS,EV stock,Vans,FCEV,2030,Vehicles,1100.0,Other
 USA,Projection-STEPS,EV stock,Buses,PHEV,2030,Vehicles,1100.0,Other
@@ -5881,7 +5875,6 @@ China,Projection-STEPS,EV sales,Trucks,PHEV,2021,Vehicles,520.0,Other
 Rest of the world,Projection-STEPS,EV stock,Buses,FCEV,2020,Vehicles,520.0,Other
 USA,Projection-STEPS,EV stock,Buses,FCEV,2024,Vehicles,520.0,Other
 World,Historical,"Oil displacement, million lge",Vans,EV,2017,"Oil displacement, million lge",520.0,_World
-India,Projection-STEPS,EV sales,Trucks,FCEV,2030,Vehicles,520.0,Other
 India,Projection-STEPS,EV sales,Trucks,FCEV,2030,Vehicles,520.0,Other
 Rest of the world,Projection-STEPS,EV sales,Trucks,FCEV,2030,Vehicles,520.0,Other
 Poland,Historical,EV charging points,EV,Publicly available fast,2020,charging points,520.0,Other
@@ -6753,7 +6746,6 @@ United Kingdom,Historical,EV stock,Vans,PHEV,2017,Vehicles,220.0,Other
 USA,Projection-STEPS,EV stock,Buses,FCEV,2022,Vehicles,220.0,Other
 India,Historical,"Oil displacement, million lge",2 and 3 wheelers,EV,2022,"Oil displacement, million lge",220.0,Other
 India,Projection-STEPS,"Oil displacement, million lge",2 and 3 wheelers,EV,2022,"Oil displacement, million lge",220.0,Other
-India,Projection-STEPS,"Oil displacement, million lge",Trucks,EV,2030,"Oil displacement, million lge",220.0,Other
 India,Projection-STEPS,"Oil displacement, million lge",Trucks,EV,2030,"Oil displacement, million lge",220.0,Other
 World,Historical,"Oil displacement, million lge",Vans,EV,2016,"Oil displacement, million lge",220.0,_World
 Brazil,Historical,EV charging points,EV,Publicly available slow,2019,charging points,220.0,Other
@@ -11677,7 +11669,6 @@ China,Projection-STEPS,Oil displacement Mbd,Cars,EV,2030,Million barrels per day
 China,Historical,Battery demand,Trucks,EV,2020,GWh,2.0,Other
 China,Projection-STEPS,Battery demand,Trucks,EV,2020,GWh,2.0,Other
 India,Projection-STEPS,Battery demand,Trucks,EV,2030,GWh,2.0,Other
-India,Projection-STEPS,Battery demand,Trucks,EV,2030,GWh,2.0,Other
 Rest of the world,Historical,Battery demand,2 and 3 wheelers,EV,2024,GWh,2.0,Other
 Rest of the world,Projection-STEPS,Battery demand,2 and 3 wheelers,EV,2024,GWh,2.0,Other
 Canada,Historical,EV charging points,EV,Publicly available fast,2012,charging points,2.0,Other
@@ -11707,7 +11698,6 @@ United Kingdom,Historical,EV stock share,Buses,EV,2022,percent,2.0,Other
 China,Projection-STEPS,EV stock share,Vans,EV,2021,percent,2.0,Other
 Europe,Projection-STEPS,EV sales share,Vans,EV,2020,percent,2.0,Aggregate_sales_stock
 Europe,Projection-STEPS,EV sales share,Trucks,EV,2023,percent,2.0,Aggregate_sales_stock
-India,Projection-STEPS,EV sales share,Trucks,EV,2030,percent,2.0,Other
 India,Projection-STEPS,EV sales share,Trucks,EV,2030,percent,2.0,Other
 India,Projection-STEPS,EV stock share,Vans,EV,2030,percent,2.0,Other
 Rest of the world,Projection-STEPS,EV sales share,Trucks,EV,2030,percent,2.0,Other
@@ -13290,7 +13280,6 @@ South Africa,Historical,EV sales share,2 and 3 wheelers,EV,2015,percent,0.36,Oth
 Spain,Historical,EV stock share,Cars,EV,2020,percent,0.36,Other
 Switzerland,Historical,EV stock share,Cars,EV,2016,percent,0.36,Other
 World,Historical,EV stock share,2 and 3 wheelers,EV,2012,percent,0.36,_World
-India,Projection-STEPS,EV stock share,Trucks,EV,2030,percent,0.36,Other
 India,Projection-STEPS,EV stock share,Trucks,EV,2030,percent,0.36,Other
 Estonia,Historical,EV sales share,Cars,EV,2019,percent,0.36,Other
 Hungary,Historical,EV sales share,Cars,EV,2016,percent,0.36,Other
@@ -15705,7 +15694,6 @@ Malaysia,Historical,EV stock share,2 and 3 wheelers,EV,2013,percent,0.004,Other
 Middle East and Caspian,Historical,EV stock share,Buses,EV,2019,percent,0.004,Aggregate_sales_stock
 Rest of the world,Historical,EV sales share,Trucks,EV,2018,percent,0.004,Other
 Russia,Historical,EV sales share,2 and 3 wheelers,EV,2020,percent,0.004,Other
-India,Projection-STEPS,Oil displacement Mbd,Trucks,EV,2030,Million barrels per day,0.0039,Other
 India,Projection-STEPS,Oil displacement Mbd,Trucks,EV,2030,Million barrels per day,0.0039,Other
 World,Historical,Oil displacement Mbd,Vans,EV,2016,Million barrels per day,0.0039,_World
 World,Historical,Battery demand,Trucks,EV,2013,GWh,0.0039,_World
