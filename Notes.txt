@@ -3,11 +3,12 @@ TARGET VARIABLE SELECTION
 
 TITLE:
 ------
-Explaining and Predicting Electric Vehicle Adoption Across Countries: A Comparative Machine Learning Study
+Predicting and Interpreting Electric Vehicle Adoption Across Countries: A Comparative Machine Learning Study
 
 RESEARCH QUESTION:
 ------------------
-How accurately can machine learning models predict EV adoption across countries, and which factors contribute most to model predictions?
+
+How accurately can machine learning models predict EV adoption across countries, and which features contribute most to model predictions?
 
 DECISION:
 ---------
